@@ -19,8 +19,8 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-/*     background-image: url(/background.png); */
-   background-image:linear-gradient(rgba(0, 0, 0, 0.728), rgba(0, 0, 0, 0.5)), url(/bg1.png);
+    background-image: url(/background.png);
+/*    background-image:linear-gradient(rgba(0, 0, 0, 0.728), rgba(0, 0, 0, 0.5)), url(/bg1.png); */
     background-size: cover;
     background-position: center;
 }
