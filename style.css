@@ -23,6 +23,7 @@ body{
    background-image:linear-gradient(rgba(0, 0, 0, 0.728), rgba(0, 0, 0, 0.5)), url(bg1.png);
     background-size: cover;
     background-position: center;
+    background-attachment:fixed;
 }
 .container{
     padding:10px 10%;
